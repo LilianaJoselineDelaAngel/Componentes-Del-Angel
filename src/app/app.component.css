@@ -1,0 +1,21 @@
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    "header header  header  header  header  header  header "
+    "menu main  main main  main main  main";
+}
+
+.grid-header {
+  grid-area: header;
+  background-color: rgb(3, 6, 91);
+}
+
+.grid-menu {
+  grid-area: menu;
+  background-color: #2c698f;
+}
+
+.grid-lista {
+  grid-area: main;
+  margin: 25px 50px 25px 50px;
+}
