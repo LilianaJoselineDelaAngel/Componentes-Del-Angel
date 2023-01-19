@@ -7,15 +7,14 @@
 
 .grid-header {
   grid-area: header;
-  background-color: rgb(3, 6, 91);
 }
 
 .grid-menu {
   grid-area: menu;
-  background-color: #2c698f;
+  margin: 5px 5px 5px 5px;
 }
 
 .grid-lista {
   grid-area: main;
-  margin: 25px 50px 25px 50px;
+  margin: 25px 25px 25px 25px;
 }

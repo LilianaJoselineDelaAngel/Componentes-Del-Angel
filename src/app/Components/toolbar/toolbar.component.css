@@ -1,6 +1,9 @@
-.titulo {
-  width: 100%;
-  color: rgb(253, 253, 253);
+a,
+span {
+  color: aliceblue !important;
+}
+.Iniciar {
+  color: rgb(128, 188, 206) !important;
 }
 .toolbar {
   margin: 25px 50px 25px 50px;
